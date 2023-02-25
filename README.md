@@ -1,5 +1,6 @@
 <h1 align="center">Hello there 👋 </h1>
-<h3 align="center"><h1 align="left">Venkatesh M<h1>A passionate Mobile Application Developer, Cybersecurity Analyst and Cloud Engineer from India.</h3>
+<h1 align="left">Venkatesh M<h1>
+<h3 align="center">A passionate Mobile Application Developer, Cybersecurity Analyst and Cloud Engineer from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkatesh-mpro&label=Profile%20views&color=0e75b6&style=flat" alt="venkatesh-mpro" /> </p>
 
